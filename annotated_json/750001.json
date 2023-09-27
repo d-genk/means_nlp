@@ -1,1 +1,2184 @@
-{"id":"dfbae7c7a1494799be522e56a44c3bf6","examples":[{"content":"Surgoinsville June 23 1908","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"fb5a2b61-0b51-4103-a051-ae8e21ef0e3e","annotations":[{"end":13,"tag":"Location","start":0,"value":"Surgoinsville","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"fb5a2b61-0b51-4103-a051-ae8e21ef0e3e","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:08.292+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"b8fa6400-86e8-4075-a3b0-b9523ad9f1f9"},{"end":26,"tag":"Date","start":14,"value":"June 23 1908","tag_id":"f62180c0-4250-48b2-9d84-3c0794e726ae","correct":null,"reviewed":false,"example_id":"fb5a2b61-0b51-4103-a051-ae8e21ef0e3e","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:13.076+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"15a08deb-60b0-4952-b635-cb0276317df6"}],"classifications":[]},{"content":"My Dear Mother,","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"81371971-b920-47c0-a3d5-cbd058e5c600","annotations":[{"end":14,"tag":"Relationship","start":8,"value":"Mother","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"81371971-b920-47c0-a3d5-cbd058e5c600","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:07.764+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"2f94830a-a88d-4f75-b2b2-1808b9077c9c"}],"classifications":[]},{"content":"Frank said he telegraphed you the day Uncle Will died.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"7613a9b6-f56f-41a6-a3c7-720f2f84d282","annotations":[{"end":48,"tag":"Name","start":44,"value":"Will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7613a9b6-f56f-41a6-a3c7-720f2f84d282","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:19.615+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"f1541f96-d06b-457f-a31f-104c447662c8"},{"end":5,"tag":"Name","start":0,"value":"Frank","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7613a9b6-f56f-41a6-a3c7-720f2f84d282","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:17.798+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"f06cc89f-c649-460f-a348-409f3dea8135"},{"end":43,"tag":"Name","start":38,"value":"Uncle","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7613a9b6-f56f-41a6-a3c7-720f2f84d282","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"78c2e77b-691b-4e45-a582-729fbd0bc134"},{"end":43,"tag":"Relationship","start":38,"value":"Uncle","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"7613a9b6-f56f-41a6-a3c7-720f2f84d282","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:27.666+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"096a5056-5c80-4fe4-ad8c-0f3fdc40ab03"}],"classifications":[]},{"content":"Annie drove me down to the house the day he was buried. He","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"e76bde5c-bc99-4cc9-8595-8ef5ddc183b7","annotations":[{"end":5,"tag":"Name","start":0,"value":"Annie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"e76bde5c-bc99-4cc9-8595-8ef5ddc183b7","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:49:18.647+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"81322443-24ed-494b-9ae8-83260a5b45b3"}],"classifications":[]},{"content":"looked so calm & peaceful, just as if he were asleep. He told","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"9885bf3f-6fbe-46f1-991d-5b742d590531","annotations":[],"classifications":[]},{"content":"told Billie the last time he was in the graveyard where he wanted","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"ad1f4931-e3c5-48c0-ab52-ff27baa12c18","annotations":[{"end":11,"tag":"Name","start":5,"value":"Billie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"ad1f4931-e3c5-48c0-ab52-ff27baa12c18","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:56.329+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"262a338a-b22a-41de-a280-ce0ca46f3d71"}],"classifications":[]},{"content":"his grave & asked Mr. McCutchan to conduct the service.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"53fbcc87-6704-4928-8e6d-9f7631807a54","annotations":[{"end":31,"tag":"Name","start":18,"value":"Mr. McCutchan","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"53fbcc87-6704-4928-8e6d-9f7631807a54","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:34.087+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"b7610d35-2e15-4317-ab4f-d33eed285eb2"},{"end":9,"tag":"Location","start":4,"value":"grave","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"53fbcc87-6704-4928-8e6d-9f7631807a54","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"a4230fb6-ad8f-44da-b6f3-b5ed559b4884"}],"classifications":[]},{"content":"The pall bearers were old soldiers & before closing the grave","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"17b80cf1-e229-4767-9f1c-7836aa6961b0","annotations":[{"end":61,"tag":"Location","start":56,"value":"grave","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"17b80cf1-e229-4767-9f1c-7836aa6961b0","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"45b4aa57-2d0e-4b50-a1de-a7e6f760a4ad"}],"classifications":[]},{"content":"they all put a flower in the grave. Mr. McCutchan, De Miller","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"8b5cc4b8-a487-405e-9fb7-375f9258d1a1","annotations":[{"end":34,"tag":"Location","start":29,"value":"grave","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"8b5cc4b8-a487-405e-9fb7-375f9258d1a1","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"94526b93-9cf7-4d3e-a3d3-1493d5257c01"},{"end":49,"tag":"Name","start":36,"value":"Mr. McCutchan","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"8b5cc4b8-a487-405e-9fb7-375f9258d1a1","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:15.421+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"777d5124-b588-48c8-ad24-3f86152e7013"},{"end":60,"tag":"Name","start":51,"value":"De Miller","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"8b5cc4b8-a487-405e-9fb7-375f9258d1a1","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:16.437+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"23877bbe-8bf5-4397-b4e0-f06addb6e4dc"}],"classifications":[]},{"content":"cousin Wiley Young, old Mr. Cox, Mr. Buck Phipps were the only","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotations":[{"end":41,"tag":"Name","start":37,"value":"Buck","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:26.833+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"d0cff8b4-1b25-4095-8875-45c4c91e7231"},{"end":18,"tag":"Name","start":13,"value":"Young","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:19.799+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"bc1ff947-fe4b-4753-a12e-ac13b422fc13"},{"end":6,"tag":"Relationship","start":0,"value":"cousin","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:21.716+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"8b352707-f56f-458b-ad9b-d0cffd823194"},{"end":12,"tag":"Name","start":7,"value":"Wiley","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:20.733+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"6fe01cbe-93c2-4662-9e29-c317fd1f389e"},{"end":31,"tag":"Name","start":28,"value":"Cox","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:40.219+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"5c921bd8-543d-4dbb-a5a6-2bca5a60b8cb"},{"end":48,"tag":"Name","start":42,"value":"Phipps","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"16627cdd-011c-4352-af4e-ad38842d1989","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:28.417+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"1be5aeed-ff38-414c-b124-176aa3bcd098"}],"classifications":[]},{"content":"ones I knew. They were all so old & feeble some younger men","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"64b40c24-e52b-4c58-b10d-41ca95f3123c","annotations":[],"classifications":[]},{"content":"had to take it before they got to the grave. He was buried","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"61f5c08f-9c88-4a17-8cfa-37ecafbc5587","annotations":[{"end":43,"tag":"Location","start":38,"value":"grave","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"61f5c08f-9c88-4a17-8cfa-37ecafbc5587","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"5850536e-2260-45cc-a717-bdf2069d29af"}],"classifications":[]},{"content":"in a very handsome casket & they had hot house flowers from","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"b615943c-fe36-43a8-b255-42d9e5998717","annotations":[],"classifications":[]},{"content":"Knoxville on Sallie's fixed by a florist. One very large wreath","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"ce6cdf8e-f28b-4b40-93a6-86290907963f","annotations":[{"end":21,"tag":"Name","start":13,"value":"Sallie's","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"ce6cdf8e-f28b-4b40-93a6-86290907963f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:25.154+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"c72a986e-c7e1-4c67-ab26-4796cae6d751"},{"end":9,"tag":"Location","start":0,"value":"Knoxville","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"ce6cdf8e-f28b-4b40-93a6-86290907963f","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"61f752ea-9bcf-488a-be57-db26ea6d17fd"}],"classifications":[]},{"content":"with Father on it. I suppose the children all got that.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"16718261-52bc-4c3f-81e5-eb362f0951a9","annotations":[{"end":11,"tag":"Relationship","start":5,"value":"Father","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"16718261-52bc-4c3f-81e5-eb362f0951a9","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:52.968+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"7d74288d-691b-44c6-b15c-e683c7143630"}],"classifications":[]},{"content":"I got sick at the grave & had to leave & did not see it after","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"f2e6a17b-fcf1-467a-bd0b-63b1a923c70c","annotations":[{"end":23,"tag":"Location","start":18,"value":"grave","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"f2e6a17b-fcf1-467a-bd0b-63b1a923c70c","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"54561a82-5e5f-4e0a-887d-d07cb0e417d4"}],"classifications":[]},{"content":"they were on it. I had not been well for several days & the","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"3bd3d264-81f0-419b-b859-4a43fb8164f3","annotations":[],"classifications":[]},{"content":"seemed to have charge of the house. They had thirty to eat","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"9d2ab6e3-7a7c-4b19-af56-3c413b6cf697","annotations":[],"classifications":[]},{"content":"dinner. Alice said she did not see what on earth people came","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"8201e370-8e8d-4683-a87f-e2665414c2b3","annotations":[{"end":13,"tag":"Name","start":8,"value":"Alice","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"8201e370-8e8d-4683-a87f-e2665414c2b3","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:48:09.19+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"5876e05f-e573-4dcd-a544-b3b0a221f395"}],"classifications":[]},{"content":"there to eat for. They sang the same songs they sang at Aunt","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"008be366-4ad2-497f-81b8-d2878a1d96b9","annotations":[{"end":60,"tag":"Relationship","start":56,"value":"Aunt","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"008be366-4ad2-497f-81b8-d2878a1d96b9","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:58.314+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"6bb34539-1d1e-401a-a780-50c460a72376"}],"classifications":[]},{"content":"Sallie's funeral. Everything was so pretty at Stony Point.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"ebee3c84-9ab3-4328-b6e4-fccc31a4da85","annotations":[{"end":8,"tag":"Name","start":0,"value":"Sallie's","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"ebee3c84-9ab3-4328-b6e4-fccc31a4da85","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:08.603+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"c277f0d2-ab7c-4836-9740-c3b4a8bf9092"},{"end":57,"tag":"Location","start":46,"value":"Stony Point","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"ebee3c84-9ab3-4328-b6e4-fccc31a4da85","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:10.32+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"27fa55f6-d80e-4fba-9c5c-4c0853c53ce4"}],"classifications":[]},{"content":"The trees & flowers Uncle Will had planted & looked after.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"7a9d0344-ce49-4e9a-b162-d40108e2cf2f","annotations":[{"end":30,"tag":"Name","start":26,"value":"Will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7a9d0344-ce49-4e9a-b162-d40108e2cf2f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:50.769+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"61a9d134-951d-4923-af79-79df69ca0a48"},{"end":25,"tag":"Relationship","start":20,"value":"Uncle","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"7a9d0344-ce49-4e9a-b162-d40108e2cf2f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:56:02.87+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"412f0707-8ee4-499e-b76c-c86fe33fa8ee"},{"end":25,"tag":"Name","start":20,"value":"Uncle","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7a9d0344-ce49-4e9a-b162-d40108e2cf2f","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"03df5c0f-e635-4cbb-87e8-ea52d710890a"}],"classifications":[]},{"content":"Stony Point will never be the same again. The children &","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"8fc83439-4f7b-46c0-90a2-ed5cb48f9480","annotations":[{"end":11,"tag":"Location","start":0,"value":"Stony Point","tag_id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","correct":null,"reviewed":false,"example_id":"8fc83439-4f7b-46c0-90a2-ed5cb48f9480","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:02.331+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"c265205e-7dd1-473e-9f49-a514e8cd8cd2"},{"end":16,"tag":"Name","start":12,"value":"will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"8fc83439-4f7b-46c0-90a2-ed5cb48f9480","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"bb160dd9-6fcf-4411-9b93-9238a729ed23"}],"classifications":[]},{"content":"grandchildren almost filled one side of the church. None of","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"6dd4d10e-3c6a-4ae9-af51-910db7be73bf","annotations":[],"classifications":[]},{"content":"Charlie's family except Charlie-- very thin. He walked with","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"72f7d876-4074-4377-bf5f-537ccb69fca8","annotations":[{"end":31,"tag":"Name","start":24,"value":"Charlie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"72f7d876-4074-4377-bf5f-537ccb69fca8","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:22.911+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"e47f46f5-4752-4d6a-aa5f-3b9c7d326a1d"},{"end":7,"tag":"Name","start":0,"value":"Charlie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"72f7d876-4074-4377-bf5f-537ccb69fca8","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:19.71+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"c283e746-f780-4343-8de8-3156aefb7110"}],"classifications":[]},{"content":"Billy. He looked so pitiful. Jim nor any of her family were","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"7288f27d-7aeb-405d-b312-adef30d450ff","annotations":[{"end":5,"tag":"Name","start":0,"value":"Billy","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7288f27d-7aeb-405d-b312-adef30d450ff","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:11.95+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"a1fec60f-b5f5-4b28-90b8-ca9b27d22bc0"},{"end":32,"tag":"Name","start":29,"value":"Jim","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"7288f27d-7aeb-405d-b312-adef30d450ff","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:55:15.383+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"771d8619-be4e-4df1-be5b-306ac32a5608"}],"classifications":[]},{"content":"services were so long & the heat made me all trembly & sick","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"42602e67-a643-46f9-b0e8-e05e04605fce","annotations":[],"classifications":[]},{"content":"at the stomach. I got all right after I came home. We wouldnt","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"23b929c5-fa5a-487d-8359-861efdb5fe01","annotations":[],"classifications":[]},{"content":"have known Uncle Will was dead if Jim Forgey hadnt stopped in","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"827fd348-50e7-4890-9094-db6101a9173b","annotations":[{"end":44,"tag":"Name","start":34,"value":"Jim Forgey","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"827fd348-50e7-4890-9094-db6101a9173b","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:44.884+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"cb21d6be-bf1a-49f8-8e73-07515266c8d1"},{"end":16,"tag":"Relationship","start":11,"value":"Uncle","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"827fd348-50e7-4890-9094-db6101a9173b","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:34.4+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"6f8abe5a-56b8-4f17-8e42-8047e4f0d495"},{"end":21,"tag":"Name","start":17,"value":"Will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"827fd348-50e7-4890-9094-db6101a9173b","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:36.933+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"464806f0-9a5a-43f9-855d-82a39be04295"}],"classifications":[]},{"content":"out of the rain & you would never have known that I was any","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"512fc956-db3c-4044-82e6-66b0997230f7","annotations":[],"classifications":[]},{"content":"Kin to Frank or any of them. Miss Ida Smith, Rich' s sweetheart","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"a422b2cd-0a35-42e2-88e2-9a66e52680d5","annotations":[{"end":52,"tag":"Name","start":45,"value":"Rich' s","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"a422b2cd-0a35-42e2-88e2-9a66e52680d5","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:51.606+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"bd5bb8e8-86c2-4dc5-9879-2f7e2367e78c"},{"end":12,"tag":"Name","start":7,"value":"Frank","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"a422b2cd-0a35-42e2-88e2-9a66e52680d5","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:43.589+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"5c20f7d5-3f52-4d5e-88ec-4152ea5c6594"},{"end":43,"tag":"Name","start":29,"value":"Miss Ida Smith","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"a422b2cd-0a35-42e2-88e2-9a66e52680d5","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:48.34+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"3042f728-41dd-40e3-8a96-0ddc04dcc61c"}],"classifications":[]},{"content":"there. I heard when I first came up here that Clint was in","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"b30f88c5-1a43-4927-851b-74c8743b9d26","annotations":[{"end":51,"tag":"Name","start":46,"value":"Clint","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"b30f88c5-1a43-4927-851b-74c8743b9d26","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:28.777+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"84daea56-1321-4b22-ae0b-0f34986f53f1"}],"classifications":[]},{"content":"some trouble about selling whiskey & that Jim was sick. She","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"3b3580bf-9525-4036-9b92-191ea76eda6f","annotations":[{"end":45,"tag":"Name","start":42,"value":"Jim","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"3b3580bf-9525-4036-9b92-191ea76eda6f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:12.252+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"5772bb49-8cac-415f-bcf9-971fc3500182"}],"classifications":[]},{"content":"Young. Mr. Will Waterson died about ten days ago. Annie is","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"da2fb952-457f-429d-8f29-88a5817ce2fc","annotations":[{"end":48,"tag":"Date","start":36,"value":"ten days ago","tag_id":"f62180c0-4250-48b2-9d84-3c0794e726ae","correct":null,"reviewed":false,"example_id":"da2fb952-457f-429d-8f29-88a5817ce2fc","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:06.891+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"eeb73788-6502-4306-8256-a79a43d658ad"},{"end":5,"tag":"Name","start":0,"value":"Young","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"da2fb952-457f-429d-8f29-88a5817ce2fc","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:50:57.19+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"d6d53f67-c171-4a40-bd91-322d8f02bf70"},{"end":55,"tag":"Name","start":50,"value":"Annie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"da2fb952-457f-429d-8f29-88a5817ce2fc","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:04.858+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"b43b303f-d6c1-444a-8936-2d46b546af95"},{"end":24,"tag":"Name","start":11,"value":"Will Waterson","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"da2fb952-457f-429d-8f29-88a5817ce2fc","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:02.407+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"74b62f32-e7fb-459f-9c37-92ce3b543098"}],"classifications":[]},{"content":"didnt come to Aunt Sallie ' funeral. I suppose they are poor","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"03bbe66b-c6bf-482a-9f9c-16a48b30aa6d","annotations":[{"end":25,"tag":"Name","start":19,"value":"Sallie","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"03bbe66b-c6bf-482a-9f9c-16a48b30aa6d","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:25.193+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"d1dc9a53-3cfd-407e-9e91-9876bba35995"},{"end":18,"tag":"Relationship","start":14,"value":"Aunt","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"03bbe66b-c6bf-482a-9f9c-16a48b30aa6d","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:24.076+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"bfeec132-1d20-4a1f-9dca-e5f7aed27747"}],"classifications":[]},{"content":"& it may be the boys are at work. Frank hired a carriage.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"b7d0d2a0-101d-43c4-9cdb-85990f79df1c","annotations":[{"end":39,"tag":"Name","start":34,"value":"Frank","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"b7d0d2a0-101d-43c4-9cdb-85990f79df1c","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:27.122+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"a67cc029-4de1-4683-8823-6685e12e37cd"}],"classifications":[]},{"content":"Bob Armstrong & Mary rode in Sam's buggy & Sara went in the","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotations":[{"end":47,"tag":"Name","start":43,"value":"Sara","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:57.658+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"ff161faf-da50-4f2f-a53c-e135553057f1"},{"end":13,"tag":"Name","start":4,"value":"Armstrong","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:33.156+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"c8b55967-bdd9-4d56-ad92-7b24bfe8b6fb"},{"end":20,"tag":"Name","start":16,"value":"Mary","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:34.172+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"50ee9d47-7415-478a-b2a0-429efb342f42"},{"end":32,"tag":"Name","start":29,"value":"Sam","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:54.591+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"3754103a-0c6f-4b3c-994d-c43db70bb237"},{"end":3,"tag":"Name","start":0,"value":"Bob","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"5289d58e-93a9-4530-9094-2503f9a02a3f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:53:51.407+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"145d1e16-9297-4c28-b95b-06a35801fbbc"}],"classifications":[]},{"content":"carriage with De Miller. Sam looked so bad & the perspiration","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"74991f41-00e2-4b7c-87d3-7202c84f306b","annotations":[{"end":23,"tag":"Name","start":14,"value":"De Miller","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"74991f41-00e2-4b7c-87d3-7202c84f306b","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:11.847+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"fdf9eef4-d903-4a31-bd33-356655ff1129"},{"end":28,"tag":"Name","start":24,"value":" Sam","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"74991f41-00e2-4b7c-87d3-7202c84f306b","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:13.081+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"bf729337-3e7c-4baf-baab-e27cd62a9d99"}],"classifications":[]},{"content":"was just pouring off of him. He got into the Burem boy's buggy","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"bf0898c0-a419-4ba1-a95b-ae92e8f62f07","annotations":[{"end":51,"tag":"Name","start":45,"value":"Burem ","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"bf0898c0-a419-4ba1-a95b-ae92e8f62f07","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:48:25.296+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"9da0b7a8-43ad-4723-9f43-5be7761f9bf3"}],"classifications":[]},{"content":"& rode part of the way. The procession reached from the house","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"8d0fc60a-fce0-4785-ae17-2efbc613c03c","annotations":[],"classifications":[]},{"content":"to the church. This country will surely miss those two old","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"351caa97-8716-4ed1-bd9e-960635d7e8f1","annotations":[{"end":32,"tag":"Name","start":28,"value":"will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"351caa97-8716-4ed1-bd9e-960635d7e8f1","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"9a5579dc-b0fb-4b84-9579-533832064a53"}],"classifications":[]},{"content":"people. They havent any children that can begin to take their","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"14852dc8-d3c2-43a4-bc6e-172710c9a015","annotations":[],"classifications":[]},{"content":"places. De Miller looks old & shakey & so does Cousin Wiley","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"4a63c55d-45ac-4117-8af2-976bcd9e4463","annotations":[{"end":17,"tag":"Name","start":8,"value":"De Miller","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"4a63c55d-45ac-4117-8af2-976bcd9e4463","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:14.142+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"f2d4b20f-c098-4b5a-b0f2-46b1ea6f0ee0"},{"end":53,"tag":"Relationship","start":47,"value":"Cousin","tag_id":"15ef44fb-1424-4534-83a1-e7ce904f4893","correct":null,"reviewed":false,"example_id":"4a63c55d-45ac-4117-8af2-976bcd9e4463","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:19.042+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"60a0892b-fff0-4b1a-b7b3-0dc2b108af70"},{"end":59,"tag":"Name","start":54,"value":"Wiley","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"4a63c55d-45ac-4117-8af2-976bcd9e4463","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:51:18.159+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"40b50564-eeb7-42d7-a93d-006b11b21842"}],"classifications":[]},{"content":"sick nearly every day but she must be stronger than I think","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"6fbb8b4c-d0ad-4a29-91e6-f01ff45715ac","annotations":[],"classifications":[]},{"content":"or must have wonderful will power. She stood that trip as","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"2abd6377-ad63-4b2b-bf6e-afe11776dbb3","annotations":[{"end":27,"tag":"Name","start":23,"value":"will","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"2abd6377-ad63-4b2b-bf6e-afe11776dbb3","annotated_by":[{"annotator":null,"timestamp":null,"annotator_id":null}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"97814eed-7d6e-461e-b6f6-73ab21475106"}],"classifications":[]},{"content":"well as I did & it certainly was an awful one. We started","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"29e818e1-f0be-4166-ade8-bbc5eb9a2d5a","annotations":[],"classifications":[]},{"content":"to the church about two & when we got home it was past six &","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"4436d44a-0c94-4fb3-87ff-7633ad1079f5","annotations":[],"classifications":[]},{"content":"we left before the others did. I was strongly tempted to pack","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"e26507a7-604c-4ec5-9b9e-989d875b1126","annotations":[],"classifications":[]},{"content":"my trunk & leave for home all last week. Think I would but","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"5b118f36-d115-47ab-8365-0c4f6384e280","annotations":[],"classifications":[]},{"content":"didnt think I could stand it. I want to see you. Sam wrote","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"dc500e85-d028-4a63-a430-d44a6cb9483f","annotations":[{"end":52,"tag":"Name","start":48,"value":" Sam","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"dc500e85-d028-4a63-a430-d44a6cb9483f","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:52:59.019+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"7a48feff-2518-418d-90b5-9365dbec2fab"}],"classifications":[]},{"content":"last week wanting me to come over there. Said Sara was sick","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"fa75a2aa-b6e9-4c06-bc15-71f0a0434f14","annotations":[{"end":50,"tag":"Name","start":46,"value":"Sara","tag_id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","correct":null,"reviewed":false,"example_id":"fa75a2aa-b6e9-4c06-bc15-71f0a0434f14","annotated_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","timestamp":"2023-07-05T03:54:48.346+00:00","annotator_id":1}],"definition_id":"dfbae7c7-a149-4799-be52-2e56a44c3bf6","tagged_token_id":"4a80f03c-b0ba-4ac2-99cd-b351f53d94f5"}],"classifications":[]},{"content":"but I am not able to work and my right arm has rheumatism in it.","seen_by":[{"annotator":"tjm6c@mtmail.mtsu.edu","annotator_id":1}],"comments":[],"metadata":{},"example_id":"79474d0a-71f1-41d2-b1db-e7841cab3501","annotations":[],"classifications":[]}],"schema":{"id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc","archived":false,"slug":"armstrong-database-records","name":"Armstrong Database Records","tags":[{"id":"d1f146b8-6bb8-48af-85af-df1341ec1e68","name":"Business","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"f62180c0-4250-48b2-9d84-3c0794e726ae","name":"Date","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"30faabc8-bd86-4238-a96a-eab3ecb7b98a","name":"Enslaved","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0","name":"Location","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"8fa446cf-5b9e-433c-a2fb-d5fbd9103172","name":"Name","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"15ef44fb-1424-4534-83a1-e7ce904f4893","name":"Relationship","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"abc4c9db-489b-414c-85db-70f34509a12a","name":"Sermon","description":"","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"}],"classification_types":[{"id":"396d5894-4422-4015-83dd-b1d695e14108","name":"Bill of Sale","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"d56d0e8e-419d-40bd-8808-b3e8913b3866","name":"Business","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"018b737e-039a-4969-a75c-2b247c7505ef","name":"Church","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"8c6108f7-a651-4774-8259-d5647848e257","name":"Land Deeds","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"},{"id":"a3a4229b-58ea-40f3-b409-4f9ad82aa241","name":"School","schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"}],"models":[{"id":"b7170a38-9d7f-4aee-b4fe-58148e5db68a","url":"/api/v2/models/b7170a38-9d7f-4aee-b4fe-58148e5db68a/","slug":"armstrong-database-records-ad-hoc-dict","name":"Armstrong Database Records ad hoc dict","metadata":{},"schema_id":"935d6d3d-6246-4ade-bb4c-b922f5ce94fc"}],"editable":false,"is_multiclass":false},"dataset":{"id":"aa591fdb-2767-42a1-8c11-5a53d63a93e4","slug":"transcribed-wl-diary-1868","url":"/api/v1/projects/default/datasets/transcribed-wl-diary-1868/","name":"Transcribed WL Diary 1868","id_field":null,"content_field":"text","aggregation_field":null,"order_field":null,"upload_status":"started","archived":false,"editable":false},"relations":[],"name":"Transcribed WL Diary 1868","annotators_per_example":"1"}
+{
+    "id": "dfbae7c7a1494799be522e56a44c3bf6",
+    "examples": [
+        {
+            "content": "Surgoinsville June 23 1908",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "fb5a2b61-0b51-4103-a051-ae8e21ef0e3e",
+            "annotations": [
+                {
+                    "end": 13,
+                    "tag": "Location",
+                    "start": 0,
+                    "value": "Surgoinsville",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "fb5a2b61-0b51-4103-a051-ae8e21ef0e3e",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:08.292+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "b8fa6400-86e8-4075-a3b0-b9523ad9f1f9"
+                },
+                {
+                    "end": 26,
+                    "tag": "Date",
+                    "start": 14,
+                    "value": "June 23 1908",
+                    "tag_id": "f62180c0-4250-48b2-9d84-3c0794e726ae",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "fb5a2b61-0b51-4103-a051-ae8e21ef0e3e",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:13.076+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "15a08deb-60b0-4952-b635-cb0276317df6"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "My Dear Mother,",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "81371971-b920-47c0-a3d5-cbd058e5c600",
+            "annotations": [
+                {
+                    "end": 14,
+                    "tag": "Relationship",
+                    "start": 8,
+                    "value": "Mother",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "81371971-b920-47c0-a3d5-cbd058e5c600",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:07.764+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "2f94830a-a88d-4f75-b2b2-1808b9077c9c"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Frank said he telegraphed you the day Uncle Will died.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "7613a9b6-f56f-41a6-a3c7-720f2f84d282",
+            "annotations": [
+                {
+                    "end": 48,
+                    "tag": "Name",
+                    "start": 44,
+                    "value": "Will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7613a9b6-f56f-41a6-a3c7-720f2f84d282",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:19.615+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "f1541f96-d06b-457f-a31f-104c447662c8"
+                },
+                {
+                    "end": 5,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Frank",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7613a9b6-f56f-41a6-a3c7-720f2f84d282",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:17.798+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "f06cc89f-c649-460f-a348-409f3dea8135"
+                },
+                {
+                    "end": 43,
+                    "tag": "Name",
+                    "start": 38,
+                    "value": "Uncle",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7613a9b6-f56f-41a6-a3c7-720f2f84d282",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "78c2e77b-691b-4e45-a582-729fbd0bc134"
+                },
+                {
+                    "end": 43,
+                    "tag": "Relationship",
+                    "start": 38,
+                    "value": "Uncle",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7613a9b6-f56f-41a6-a3c7-720f2f84d282",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:27.666+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "096a5056-5c80-4fe4-ad8c-0f3fdc40ab03"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Annie drove me down to the house the day he was buried. He",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "e76bde5c-bc99-4cc9-8595-8ef5ddc183b7",
+            "annotations": [
+                {
+                    "end": 5,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Annie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "e76bde5c-bc99-4cc9-8595-8ef5ddc183b7",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:49:18.647+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "81322443-24ed-494b-9ae8-83260a5b45b3"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "looked so calm & peaceful, just as if he were asleep. He told",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "9885bf3f-6fbe-46f1-991d-5b742d590531",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "told Billie the last time he was in the graveyard where he wanted",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "ad1f4931-e3c5-48c0-ab52-ff27baa12c18",
+            "annotations": [
+                {
+                    "end": 11,
+                    "tag": "Name",
+                    "start": 5,
+                    "value": "Billie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "ad1f4931-e3c5-48c0-ab52-ff27baa12c18",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:56.329+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "262a338a-b22a-41de-a280-ce0ca46f3d71"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "his grave & asked Mr. McCutchan to conduct the service.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "53fbcc87-6704-4928-8e6d-9f7631807a54",
+            "annotations": [
+                {
+                    "end": 31,
+                    "tag": "Name",
+                    "start": 18,
+                    "value": "Mr. McCutchan",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "53fbcc87-6704-4928-8e6d-9f7631807a54",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:34.087+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "b7610d35-2e15-4317-ab4f-d33eed285eb2"
+                },
+                {
+                    "end": 9,
+                    "tag": "Location",
+                    "start": 4,
+                    "value": "grave",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "53fbcc87-6704-4928-8e6d-9f7631807a54",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "a4230fb6-ad8f-44da-b6f3-b5ed559b4884"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "The pall bearers were old soldiers & before closing the grave",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "17b80cf1-e229-4767-9f1c-7836aa6961b0",
+            "annotations": [
+                {
+                    "end": 61,
+                    "tag": "Location",
+                    "start": 56,
+                    "value": "grave",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "17b80cf1-e229-4767-9f1c-7836aa6961b0",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "45b4aa57-2d0e-4b50-a1de-a7e6f760a4ad"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "they all put a flower in the grave. Mr. McCutchan, De Miller",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "8b5cc4b8-a487-405e-9fb7-375f9258d1a1",
+            "annotations": [
+                {
+                    "end": 34,
+                    "tag": "Location",
+                    "start": 29,
+                    "value": "grave",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8b5cc4b8-a487-405e-9fb7-375f9258d1a1",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "94526b93-9cf7-4d3e-a3d3-1493d5257c01"
+                },
+                {
+                    "end": 49,
+                    "tag": "Name",
+                    "start": 36,
+                    "value": "Mr. McCutchan",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8b5cc4b8-a487-405e-9fb7-375f9258d1a1",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:15.421+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "777d5124-b588-48c8-ad24-3f86152e7013"
+                },
+                {
+                    "end": 60,
+                    "tag": "Name",
+                    "start": 51,
+                    "value": "De Miller",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8b5cc4b8-a487-405e-9fb7-375f9258d1a1",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:16.437+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "23877bbe-8bf5-4397-b4e0-f06addb6e4dc"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "cousin Wiley Young, old Mr. Cox, Mr. Buck Phipps were the only",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+            "annotations": [
+                {
+                    "end": 41,
+                    "tag": "Name",
+                    "start": 37,
+                    "value": "Buck",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:26.833+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "d0cff8b4-1b25-4095-8875-45c4c91e7231"
+                },
+                {
+                    "end": 18,
+                    "tag": "Name",
+                    "start": 13,
+                    "value": "Young",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:19.799+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "bc1ff947-fe4b-4753-a12e-ac13b422fc13"
+                },
+                {
+                    "end": 6,
+                    "tag": "Relationship",
+                    "start": 0,
+                    "value": "cousin",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:21.716+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "8b352707-f56f-458b-ad9b-d0cffd823194"
+                },
+                {
+                    "end": 12,
+                    "tag": "Name",
+                    "start": 7,
+                    "value": "Wiley",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:20.733+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "6fe01cbe-93c2-4662-9e29-c317fd1f389e"
+                },
+                {
+                    "end": 31,
+                    "tag": "Name",
+                    "start": 28,
+                    "value": "Cox",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:40.219+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "5c921bd8-543d-4dbb-a5a6-2bca5a60b8cb"
+                },
+                {
+                    "end": 48,
+                    "tag": "Name",
+                    "start": 42,
+                    "value": "Phipps",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16627cdd-011c-4352-af4e-ad38842d1989",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:28.417+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "1be5aeed-ff38-414c-b124-176aa3bcd098"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "ones I knew. They were all so old & feeble some younger men",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "64b40c24-e52b-4c58-b10d-41ca95f3123c",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "had to take it before they got to the grave. He was buried",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "61f5c08f-9c88-4a17-8cfa-37ecafbc5587",
+            "annotations": [
+                {
+                    "end": 43,
+                    "tag": "Location",
+                    "start": 38,
+                    "value": "grave",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "61f5c08f-9c88-4a17-8cfa-37ecafbc5587",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "5850536e-2260-45cc-a717-bdf2069d29af"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "in a very handsome casket & they had hot house flowers from",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "b615943c-fe36-43a8-b255-42d9e5998717",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "Knoxville on Sallie's fixed by a florist. One very large wreath",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "ce6cdf8e-f28b-4b40-93a6-86290907963f",
+            "annotations": [
+                {
+                    "end": 21,
+                    "tag": "Name",
+                    "start": 13,
+                    "value": "Sallie's",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "ce6cdf8e-f28b-4b40-93a6-86290907963f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:25.154+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "c72a986e-c7e1-4c67-ab26-4796cae6d751"
+                },
+                {
+                    "end": 9,
+                    "tag": "Location",
+                    "start": 0,
+                    "value": "Knoxville",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "ce6cdf8e-f28b-4b40-93a6-86290907963f",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "61f752ea-9bcf-488a-be57-db26ea6d17fd"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "with Father on it. I suppose the children all got that.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "16718261-52bc-4c3f-81e5-eb362f0951a9",
+            "annotations": [
+                {
+                    "end": 11,
+                    "tag": "Relationship",
+                    "start": 5,
+                    "value": "Father",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "16718261-52bc-4c3f-81e5-eb362f0951a9",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:52.968+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "7d74288d-691b-44c6-b15c-e683c7143630"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "I got sick at the grave & had to leave & did not see it after",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "f2e6a17b-fcf1-467a-bd0b-63b1a923c70c",
+            "annotations": [
+                {
+                    "end": 23,
+                    "tag": "Location",
+                    "start": 18,
+                    "value": "grave",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "f2e6a17b-fcf1-467a-bd0b-63b1a923c70c",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "54561a82-5e5f-4e0a-887d-d07cb0e417d4"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "they were on it. I had not been well for several days & the",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "3bd3d264-81f0-419b-b859-4a43fb8164f3",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "seemed to have charge of the house. They had thirty to eat",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "9d2ab6e3-7a7c-4b19-af56-3c413b6cf697",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "dinner. Alice said she did not see what on earth people came",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "8201e370-8e8d-4683-a87f-e2665414c2b3",
+            "annotations": [
+                {
+                    "end": 13,
+                    "tag": "Name",
+                    "start": 8,
+                    "value": "Alice",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8201e370-8e8d-4683-a87f-e2665414c2b3",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:48:09.19+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "5876e05f-e573-4dcd-a544-b3b0a221f395"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "there to eat for. They sang the same songs they sang at Aunt",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "008be366-4ad2-497f-81b8-d2878a1d96b9",
+            "annotations": [
+                {
+                    "end": 60,
+                    "tag": "Relationship",
+                    "start": 56,
+                    "value": "Aunt",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "008be366-4ad2-497f-81b8-d2878a1d96b9",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:58.314+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "6bb34539-1d1e-401a-a780-50c460a72376"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Sallie's funeral. Everything was so pretty at Stony Point.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "ebee3c84-9ab3-4328-b6e4-fccc31a4da85",
+            "annotations": [
+                {
+                    "end": 8,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Sallie's",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "ebee3c84-9ab3-4328-b6e4-fccc31a4da85",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:08.603+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "c277f0d2-ab7c-4836-9740-c3b4a8bf9092"
+                },
+                {
+                    "end": 57,
+                    "tag": "Location",
+                    "start": 46,
+                    "value": "Stony Point",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "ebee3c84-9ab3-4328-b6e4-fccc31a4da85",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:10.32+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "27fa55f6-d80e-4fba-9c5c-4c0853c53ce4"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "The trees & flowers Uncle Will had planted & looked after.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "7a9d0344-ce49-4e9a-b162-d40108e2cf2f",
+            "annotations": [
+                {
+                    "end": 30,
+                    "tag": "Name",
+                    "start": 26,
+                    "value": "Will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7a9d0344-ce49-4e9a-b162-d40108e2cf2f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:50.769+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "61a9d134-951d-4923-af79-79df69ca0a48"
+                },
+                {
+                    "end": 25,
+                    "tag": "Relationship",
+                    "start": 20,
+                    "value": "Uncle",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7a9d0344-ce49-4e9a-b162-d40108e2cf2f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:56:02.87+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "412f0707-8ee4-499e-b76c-c86fe33fa8ee"
+                },
+                {
+                    "end": 25,
+                    "tag": "Name",
+                    "start": 20,
+                    "value": "Uncle",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7a9d0344-ce49-4e9a-b162-d40108e2cf2f",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "03df5c0f-e635-4cbb-87e8-ea52d710890a"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Stony Point will never be the same again. The children &",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "8fc83439-4f7b-46c0-90a2-ed5cb48f9480",
+            "annotations": [
+                {
+                    "end": 11,
+                    "tag": "Location",
+                    "start": 0,
+                    "value": "Stony Point",
+                    "tag_id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8fc83439-4f7b-46c0-90a2-ed5cb48f9480",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:02.331+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "c265205e-7dd1-473e-9f49-a514e8cd8cd2"
+                },
+                {
+                    "end": 16,
+                    "tag": "Name",
+                    "start": 12,
+                    "value": "will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "8fc83439-4f7b-46c0-90a2-ed5cb48f9480",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "bb160dd9-6fcf-4411-9b93-9238a729ed23"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "grandchildren almost filled one side of the church. None of",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "6dd4d10e-3c6a-4ae9-af51-910db7be73bf",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "Charlie's family except Charlie-- very thin. He walked with",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "72f7d876-4074-4377-bf5f-537ccb69fca8",
+            "annotations": [
+                {
+                    "end": 31,
+                    "tag": "Name",
+                    "start": 24,
+                    "value": "Charlie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "72f7d876-4074-4377-bf5f-537ccb69fca8",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:22.911+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "e47f46f5-4752-4d6a-aa5f-3b9c7d326a1d"
+                },
+                {
+                    "end": 7,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Charlie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "72f7d876-4074-4377-bf5f-537ccb69fca8",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:19.71+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "c283e746-f780-4343-8de8-3156aefb7110"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Billy. He looked so pitiful. Jim nor any of her family were",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "7288f27d-7aeb-405d-b312-adef30d450ff",
+            "annotations": [
+                {
+                    "end": 5,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Billy",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7288f27d-7aeb-405d-b312-adef30d450ff",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:11.95+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "a1fec60f-b5f5-4b28-90b8-ca9b27d22bc0"
+                },
+                {
+                    "end": 32,
+                    "tag": "Name",
+                    "start": 29,
+                    "value": "Jim",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "7288f27d-7aeb-405d-b312-adef30d450ff",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:55:15.383+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "771d8619-be4e-4df1-be5b-306ac32a5608"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "services were so long & the heat made me all trembly & sick",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "42602e67-a643-46f9-b0e8-e05e04605fce",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "at the stomach. I got all right after I came home. We wouldnt",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "23b929c5-fa5a-487d-8359-861efdb5fe01",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "have known Uncle Will was dead if Jim Forgey hadnt stopped in",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "827fd348-50e7-4890-9094-db6101a9173b",
+            "annotations": [
+                {
+                    "end": 44,
+                    "tag": "Name",
+                    "start": 34,
+                    "value": "Jim Forgey",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "827fd348-50e7-4890-9094-db6101a9173b",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:44.884+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "cb21d6be-bf1a-49f8-8e73-07515266c8d1"
+                },
+                {
+                    "end": 16,
+                    "tag": "Relationship",
+                    "start": 11,
+                    "value": "Uncle",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "827fd348-50e7-4890-9094-db6101a9173b",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:34.4+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "6f8abe5a-56b8-4f17-8e42-8047e4f0d495"
+                },
+                {
+                    "end": 21,
+                    "tag": "Name",
+                    "start": 17,
+                    "value": "Will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "827fd348-50e7-4890-9094-db6101a9173b",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:36.933+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "464806f0-9a5a-43f9-855d-82a39be04295"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "out of the rain & you would never have known that I was any",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "512fc956-db3c-4044-82e6-66b0997230f7",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "Kin to Frank or any of them. Miss Ida Smith, Rich' s sweetheart",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "a422b2cd-0a35-42e2-88e2-9a66e52680d5",
+            "annotations": [
+                {
+                    "end": 52,
+                    "tag": "Name",
+                    "start": 45,
+                    "value": "Rich' s",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "a422b2cd-0a35-42e2-88e2-9a66e52680d5",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:51.606+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "bd5bb8e8-86c2-4dc5-9879-2f7e2367e78c"
+                },
+                {
+                    "end": 12,
+                    "tag": "Name",
+                    "start": 7,
+                    "value": "Frank",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "a422b2cd-0a35-42e2-88e2-9a66e52680d5",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:43.589+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "5c20f7d5-3f52-4d5e-88ec-4152ea5c6594"
+                },
+                {
+                    "end": 43,
+                    "tag": "Name",
+                    "start": 29,
+                    "value": "Miss Ida Smith",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "a422b2cd-0a35-42e2-88e2-9a66e52680d5",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:48.34+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "3042f728-41dd-40e3-8a96-0ddc04dcc61c"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "there. I heard when I first came up here that Clint was in",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "b30f88c5-1a43-4927-851b-74c8743b9d26",
+            "annotations": [
+                {
+                    "end": 51,
+                    "tag": "Name",
+                    "start": 46,
+                    "value": "Clint",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "b30f88c5-1a43-4927-851b-74c8743b9d26",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:28.777+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "84daea56-1321-4b22-ae0b-0f34986f53f1"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "some trouble about selling whiskey & that Jim was sick. She",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "3b3580bf-9525-4036-9b92-191ea76eda6f",
+            "annotations": [
+                {
+                    "end": 45,
+                    "tag": "Name",
+                    "start": 42,
+                    "value": "Jim",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "3b3580bf-9525-4036-9b92-191ea76eda6f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:12.252+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "5772bb49-8cac-415f-bcf9-971fc3500182"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Young. Mr. Will Waterson died about ten days ago. Annie is",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "da2fb952-457f-429d-8f29-88a5817ce2fc",
+            "annotations": [
+                {
+                    "end": 48,
+                    "tag": "Date",
+                    "start": 36,
+                    "value": "ten days ago",
+                    "tag_id": "f62180c0-4250-48b2-9d84-3c0794e726ae",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "da2fb952-457f-429d-8f29-88a5817ce2fc",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:06.891+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "eeb73788-6502-4306-8256-a79a43d658ad"
+                },
+                {
+                    "end": 5,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Young",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "da2fb952-457f-429d-8f29-88a5817ce2fc",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:50:57.19+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "d6d53f67-c171-4a40-bd91-322d8f02bf70"
+                },
+                {
+                    "end": 55,
+                    "tag": "Name",
+                    "start": 50,
+                    "value": "Annie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "da2fb952-457f-429d-8f29-88a5817ce2fc",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:04.858+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "b43b303f-d6c1-444a-8936-2d46b546af95"
+                },
+                {
+                    "end": 24,
+                    "tag": "Name",
+                    "start": 11,
+                    "value": "Will Waterson",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "da2fb952-457f-429d-8f29-88a5817ce2fc",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:02.407+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "74b62f32-e7fb-459f-9c37-92ce3b543098"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "didnt come to Aunt Sallie ' funeral. I suppose they are poor",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "03bbe66b-c6bf-482a-9f9c-16a48b30aa6d",
+            "annotations": [
+                {
+                    "end": 25,
+                    "tag": "Name",
+                    "start": 19,
+                    "value": "Sallie",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "03bbe66b-c6bf-482a-9f9c-16a48b30aa6d",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:25.193+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "d1dc9a53-3cfd-407e-9e91-9876bba35995"
+                },
+                {
+                    "end": 18,
+                    "tag": "Relationship",
+                    "start": 14,
+                    "value": "Aunt",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "03bbe66b-c6bf-482a-9f9c-16a48b30aa6d",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:24.076+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "bfeec132-1d20-4a1f-9dca-e5f7aed27747"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "& it may be the boys are at work. Frank hired a carriage.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "b7d0d2a0-101d-43c4-9cdb-85990f79df1c",
+            "annotations": [
+                {
+                    "end": 39,
+                    "tag": "Name",
+                    "start": 34,
+                    "value": "Frank",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "b7d0d2a0-101d-43c4-9cdb-85990f79df1c",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:27.122+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "a67cc029-4de1-4683-8823-6685e12e37cd"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "Bob Armstrong & Mary rode in Sam's buggy & Sara went in the",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+            "annotations": [
+                {
+                    "end": 47,
+                    "tag": "Name",
+                    "start": 43,
+                    "value": "Sara",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:57.658+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "ff161faf-da50-4f2f-a53c-e135553057f1"
+                },
+                {
+                    "end": 13,
+                    "tag": "Name",
+                    "start": 4,
+                    "value": "Armstrong",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:33.156+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "c8b55967-bdd9-4d56-ad92-7b24bfe8b6fb"
+                },
+                {
+                    "end": 20,
+                    "tag": "Name",
+                    "start": 16,
+                    "value": "Mary",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:34.172+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "50ee9d47-7415-478a-b2a0-429efb342f42"
+                },
+                {
+                    "end": 32,
+                    "tag": "Name",
+                    "start": 29,
+                    "value": "Sam",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:54.591+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "3754103a-0c6f-4b3c-994d-c43db70bb237"
+                },
+                {
+                    "end": 3,
+                    "tag": "Name",
+                    "start": 0,
+                    "value": "Bob",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "5289d58e-93a9-4530-9094-2503f9a02a3f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:53:51.407+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "145d1e16-9297-4c28-b95b-06a35801fbbc"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "carriage with De Miller. Sam looked so bad & the perspiration",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "74991f41-00e2-4b7c-87d3-7202c84f306b",
+            "annotations": [
+                {
+                    "end": 23,
+                    "tag": "Name",
+                    "start": 14,
+                    "value": "De Miller",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "74991f41-00e2-4b7c-87d3-7202c84f306b",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:11.847+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "fdf9eef4-d903-4a31-bd33-356655ff1129"
+                },
+                {
+                    "end": 28,
+                    "tag": "Name",
+                    "start": 24,
+                    "value": " Sam",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "74991f41-00e2-4b7c-87d3-7202c84f306b",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:13.081+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "bf729337-3e7c-4baf-baab-e27cd62a9d99"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "was just pouring off of him. He got into the Burem boy's buggy",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "bf0898c0-a419-4ba1-a95b-ae92e8f62f07",
+            "annotations": [
+                {
+                    "end": 51,
+                    "tag": "Name",
+                    "start": 45,
+                    "value": "Burem ",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "bf0898c0-a419-4ba1-a95b-ae92e8f62f07",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:48:25.296+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "9da0b7a8-43ad-4723-9f43-5be7761f9bf3"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "& rode part of the way. The procession reached from the house",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "8d0fc60a-fce0-4785-ae17-2efbc613c03c",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "to the church. This country will surely miss those two old",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "351caa97-8716-4ed1-bd9e-960635d7e8f1",
+            "annotations": [
+                {
+                    "end": 32,
+                    "tag": "Name",
+                    "start": 28,
+                    "value": "will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "351caa97-8716-4ed1-bd9e-960635d7e8f1",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "9a5579dc-b0fb-4b84-9579-533832064a53"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "people. They havent any children that can begin to take their",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "14852dc8-d3c2-43a4-bc6e-172710c9a015",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "places. De Miller looks old & shakey & so does Cousin Wiley",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "4a63c55d-45ac-4117-8af2-976bcd9e4463",
+            "annotations": [
+                {
+                    "end": 17,
+                    "tag": "Name",
+                    "start": 8,
+                    "value": "De Miller",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "4a63c55d-45ac-4117-8af2-976bcd9e4463",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:14.142+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "f2d4b20f-c098-4b5a-b0f2-46b1ea6f0ee0"
+                },
+                {
+                    "end": 53,
+                    "tag": "Relationship",
+                    "start": 47,
+                    "value": "Cousin",
+                    "tag_id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "4a63c55d-45ac-4117-8af2-976bcd9e4463",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:19.042+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "60a0892b-fff0-4b1a-b7b3-0dc2b108af70"
+                },
+                {
+                    "end": 59,
+                    "tag": "Name",
+                    "start": 54,
+                    "value": "Wiley",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "4a63c55d-45ac-4117-8af2-976bcd9e4463",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:51:18.159+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "40b50564-eeb7-42d7-a93d-006b11b21842"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "sick nearly every day but she must be stronger than I think",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "6fbb8b4c-d0ad-4a29-91e6-f01ff45715ac",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "or must have wonderful will power. She stood that trip as",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "2abd6377-ad63-4b2b-bf6e-afe11776dbb3",
+            "annotations": [
+                {
+                    "end": 27,
+                    "tag": "Name",
+                    "start": 23,
+                    "value": "will",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "2abd6377-ad63-4b2b-bf6e-afe11776dbb3",
+                    "annotated_by": [
+                        {
+                            "annotator": null,
+                            "timestamp": null,
+                            "annotator_id": null
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "97814eed-7d6e-461e-b6f6-73ab21475106"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "well as I did & it certainly was an awful one. We started",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "29e818e1-f0be-4166-ade8-bbc5eb9a2d5a",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "to the church about two & when we got home it was past six &",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "4436d44a-0c94-4fb3-87ff-7633ad1079f5",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "we left before the others did. I was strongly tempted to pack",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "e26507a7-604c-4ec5-9b9e-989d875b1126",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "my trunk & leave for home all last week. Think I would but",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "5b118f36-d115-47ab-8365-0c4f6384e280",
+            "annotations": [],
+            "classifications": []
+        },
+        {
+            "content": "didnt think I could stand it. I want to see you. Sam wrote",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "dc500e85-d028-4a63-a430-d44a6cb9483f",
+            "annotations": [
+                {
+                    "end": 52,
+                    "tag": "Name",
+                    "start": 48,
+                    "value": " Sam",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "dc500e85-d028-4a63-a430-d44a6cb9483f",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:52:59.019+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "7a48feff-2518-418d-90b5-9365dbec2fab"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "last week wanting me to come over there. Said Sara was sick",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "fa75a2aa-b6e9-4c06-bc15-71f0a0434f14",
+            "annotations": [
+                {
+                    "end": 50,
+                    "tag": "Name",
+                    "start": 46,
+                    "value": "Sara",
+                    "tag_id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                    "correct": null,
+                    "reviewed": false,
+                    "example_id": "fa75a2aa-b6e9-4c06-bc15-71f0a0434f14",
+                    "annotated_by": [
+                        {
+                            "annotator": "tjm6c@mtmail.mtsu.edu",
+                            "timestamp": "2023-07-05T03:54:48.346+00:00",
+                            "annotator_id": 1
+                        }
+                    ],
+                    "definition_id": "dfbae7c7-a149-4799-be52-2e56a44c3bf6",
+                    "tagged_token_id": "4a80f03c-b0ba-4ac2-99cd-b351f53d94f5"
+                }
+            ],
+            "classifications": []
+        },
+        {
+            "content": "but I am not able to work and my right arm has rheumatism in it.",
+            "seen_by": [
+                {
+                    "annotator": "tjm6c@mtmail.mtsu.edu",
+                    "annotator_id": 1
+                }
+            ],
+            "comments": [],
+            "metadata": {},
+            "example_id": "79474d0a-71f1-41d2-b1db-e7841cab3501",
+            "annotations": [],
+            "classifications": []
+        }
+    ],
+    "schema": {
+        "id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc",
+        "archived": false,
+        "slug": "armstrong-database-records",
+        "name": "Armstrong Database Records",
+        "tags": [
+            {
+                "id": "d1f146b8-6bb8-48af-85af-df1341ec1e68",
+                "name": "Business",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "f62180c0-4250-48b2-9d84-3c0794e726ae",
+                "name": "Date",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "30faabc8-bd86-4238-a96a-eab3ecb7b98a",
+                "name": "Enslaved",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "e98fba98-1dab-4bc3-b9f9-bc1b0efd04e0",
+                "name": "Location",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "8fa446cf-5b9e-433c-a2fb-d5fbd9103172",
+                "name": "Name",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "15ef44fb-1424-4534-83a1-e7ce904f4893",
+                "name": "Relationship",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "abc4c9db-489b-414c-85db-70f34509a12a",
+                "name": "Sermon",
+                "description": "",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            }
+        ],
+        "classification_types": [
+            {
+                "id": "396d5894-4422-4015-83dd-b1d695e14108",
+                "name": "Bill of Sale",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "d56d0e8e-419d-40bd-8808-b3e8913b3866",
+                "name": "Business",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "018b737e-039a-4969-a75c-2b247c7505ef",
+                "name": "Church",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "8c6108f7-a651-4774-8259-d5647848e257",
+                "name": "Land Deeds",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            },
+            {
+                "id": "a3a4229b-58ea-40f3-b409-4f9ad82aa241",
+                "name": "School",
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            }
+        ],
+        "models": [
+            {
+                "id": "b7170a38-9d7f-4aee-b4fe-58148e5db68a",
+                "url": "/api/v2/models/b7170a38-9d7f-4aee-b4fe-58148e5db68a/",
+                "slug": "armstrong-database-records-ad-hoc-dict",
+                "name": "Armstrong Database Records ad hoc dict",
+                "metadata": {},
+                "schema_id": "935d6d3d-6246-4ade-bb4c-b922f5ce94fc"
+            }
+        ],
+        "editable": false,
+        "is_multiclass": false
+    },
+    "dataset": {
+        "id": "aa591fdb-2767-42a1-8c11-5a53d63a93e4",
+        "slug": "transcribed-wl-diary-1868",
+        "url": "/api/v1/projects/default/datasets/transcribed-wl-diary-1868/",
+        "name": "Transcribed WL Diary 1868",
+        "id_field": null,
+        "content_field": "text",
+        "aggregation_field": null,
+        "order_field": null,
+        "upload_status": "started",
+        "archived": false,
+        "editable": false
+    },
+    "relations": [],
+    "name": "Transcribed WL Diary 1868",
+    "annotators_per_example": "1"
+}
