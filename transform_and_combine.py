@@ -8,7 +8,7 @@ def combine_jsonl(path_to_volume_root):
                 continue     
             out_path = file[:file.find(".")] + ".jsonl"           
 
-            with open(file, "r") as infile:
+            with open(os.path.join(folder, file), "r", encoding="utf-8") as infile:
                 for line in infile:
                     while line[0]== " ":
                         line = line [1:]
@@ -27,3 +27,6 @@ def combine_jsonl(path_to_volume_root):
     
     with open(os.path.join(path_to_volume_root, id + ".jsonl"), "w", encoding="utf-8") as outfile:
         outfile.write(official_text)
+
+path = input("Enter a path: ")
+combine_jsonl(path)
